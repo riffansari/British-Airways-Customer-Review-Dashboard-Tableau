@@ -5,7 +5,7 @@ An interactive Tableau dashboard that analyses British Airways customer reviews 
 
 Airlines collect large volumes of customer feedback, but it is hard to act on in raw form. This project turns a review dataset into a single dashboard that lets a user quickly see where British Airways is performing well, where it is falling short, and how perception has changed over time.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/308d83b0-bbbc-45b7-85b1-51a2c60dcab0" />
+<img width="2000" height="1067" alt="image" src="https://github.com/user-attachments/assets/aabef440-f8bb-494e-b876-b710f8cb4ba5" />
 
 
 ## Dashboard Components
